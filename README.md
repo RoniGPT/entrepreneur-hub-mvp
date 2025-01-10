@@ -105,7 +105,7 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) for detailed informat
 
 - Never commit sensitive information (API keys, credentials, etc.)
 - Use environment variables for configuration
-- Follow security best practices outlined in the security documentation
+- Follow security best practices outlined in our [Security Policy](SECURITY.md)
 
 ## 📄 License
 
