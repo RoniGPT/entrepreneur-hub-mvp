@@ -46,9 +46,9 @@ For changes that address core functionality or would require breaking changes (e
 ### Setting Up Your Environment
 
 1. Fork the repository
-2. Clone your fork:
+2. Clone your fork (replace `your-username` with your GitHub username):
    ```bash
-   git clone https://github.com/richardp23/entrepreneur-hub-mvp.git
+   git clone https://github.com/your-username/entrepreneur-hub-mvp.git
    ```
 3. Add the upstream repository:
    ```bash
